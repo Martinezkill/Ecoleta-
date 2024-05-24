@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+      "moduleResolution": "Node",
+      "outDir": "lib",
+      "module": "ES2015",
+      "target": "ES2015",
+      "declaration": true, 
+      "forceConsistentCasingInFileNames":  true,
+      "strict":  true,
+      "sourceMap":true
+  },
+  "include": ["src"]
+}
