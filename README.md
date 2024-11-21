@@ -1,9 +1,11 @@
-Ecoleta 🌍♻️:
+Ecoleta 🌍♻️:  
+
 A system designed to connect companies that collect and recycle specific waste materials with users seeking proper disposal options.
 
 ##
 
-📝 Description:
+📝 Description:  
+
 Ecoleta was developed to facilitate conscious waste disposal, promoting sustainability. Companies can register as receivers of specific waste materials, including:
 Vegetable oil
 Organic waste
@@ -15,7 +17,8 @@ Users can search for registered companies near them and check the types of waste
 
 ##
 
-🛠️ Technologies Used:
+🛠️ Technologies Used:  
+
 HTML
 CSS
 JavaScript
@@ -25,7 +28,8 @@ External API Integration
 
 ##
 
-🚀 Features:
+🚀 Features:  
+
 Registration of companies as waste receivers.
 Search for registered companies and their accepted waste types.
 Database integration to store and manage information.
@@ -33,7 +37,8 @@ User-friendly interface for easy and quick access.
 
 ##
 
-📦 Installation:
+📦 Installation:  
+
 Prerequisites
 Node.js installed on your machine.
 npm package manager (comes with Node.js).
@@ -56,13 +61,13 @@ npm install
 4.Configure the database:
 
 Edit the .env file with your database credentials.
-Run the database migration script (if applicable).
+Run the database migration script (if applicable).  
 
-5.Start the server:
+5.Start the server:  
 
 npm start
 
-6.Access the system at:
+6.Access the system at:  
 
 http://localhost:3000
 
