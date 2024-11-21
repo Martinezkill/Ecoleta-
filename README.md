@@ -19,11 +19,16 @@ Users can search for registered companies near them and check the types of waste
 
 🛠️ Technologies Used:  
 
-HTML
-CSS
-JavaScript
-Node.js
-SQL (Database)
+HTML  
+
+CSS  
+
+JavaScript  
+
+Node.js  
+
+SQL (Database)  
+
 External API Integration
 
 ##
