@@ -1,4 +1,4 @@
-Ecoleta 🌍♻️:  
+♻️ Ecoleta:  
 
 A system designed to connect companies that collect and recycle specific waste materials with users seeking proper disposal options.
 
