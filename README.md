@@ -49,7 +49,7 @@ Node.js installed on your machine.
 npm package manager (comes with Node.js).
 Configured database (e.g., MySQL, PostgreSQL).
 
-- Steps to run locally
+Steps to run locally
 
 1.Clone this repository:
 
@@ -78,15 +78,7 @@ http://localhost:3000
 
 ##
 
-- Next Steps
-.Implement user authentication.
-.Enhance the responsive interface.
-.Add new waste categories.
-.Integrate maps to locate nearby companies.
-
-##
-
-- Contributions
+Contributions
 Contributions are welcome! Follow the steps below to collaborate:
 
 1.Fork the repository.
